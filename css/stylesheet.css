@@ -67,6 +67,10 @@ p {
 	width: 50px;
 }
 
+.urlLink{
+	text-align: center;
+}
+
 td {
 	font-family: Verdana;
 	font-size: 1em;
