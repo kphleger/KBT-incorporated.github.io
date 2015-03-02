@@ -37,6 +37,11 @@ h2 {
 	color: #acd1b2;
 }
 
+#tableauvis {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #header {
 	position: relative;
 	top: -10px;
